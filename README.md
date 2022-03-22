@@ -110,6 +110,12 @@ https://ngrok.com/
 
 ## Add Modules
 
+![image](https://user-images.githubusercontent.com/66835340/159550474-8d609c3b-365f-40ff-bf4a-97374b2056fc.png)
+
+In the path [installation folder]/src/html we can introduce the modules
+
+![image](https://user-images.githubusercontent.com/66835340/159551061-c6ef8618-7270-4872-8727-c436a0de0100.png)
+
 Clepnid is licensed under the Copyright Licens.
 
 [webpage]: https://clepnid.github.io/
