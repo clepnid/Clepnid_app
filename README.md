@@ -116,6 +116,6 @@ In the path [installation folder]/src/html we can introduce the modules
 
 ![image](https://user-images.githubusercontent.com/66835340/159551061-c6ef8618-7270-4872-8727-c436a0de0100.png)
 
-Clepnid is licensed under the Copyright Licens.
+Clepnid is licensed under the Copyright License, but the modules are licensed under the GPL-3.0 License.
 
 [webpage]: https://clepnid.github.io/
