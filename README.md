@@ -118,7 +118,7 @@ In the path [installation folder]/src/html we can introduce the modules
 
 Clepnid is licensed under the Copyright License, but the modules are licensed under the GPL-3.0 License.
 
-To get premium license or contribute to the project: 
+To get premium code or contribute to the project: 
 
 https://www.buymeacoffee.com/clepnid
 
