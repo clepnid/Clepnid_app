@@ -123,3 +123,35 @@ To get premium code or contribute to the project:
 https://www.buymeacoffee.com/clepnid
 
 [webpage]: https://clepnid.github.io/
+
+## Software and Hardware Requirements
+* Java 1.8 - 17
+* 256 MB of RAM
+* Apple OS X 10.5 - 10.15
+    * amd64, aarch64
+    * Enable Access for Assistive Devices
+* Windows 2000 - 10
+    * i586, amd64, arm7
+* X11 Linux
+    * i586, amd64, arm7, aarch64
+    * libxkbfile.so.1
+    * libxkbcommon-x11.so.0
+    * libxkbcommon.so.0
+    * libX11-xcb.so.1
+    * libX11.so.6
+    * libxcb.so.1
+    * libXinerama.so.1
+    * libXt.so.6
+    * libXtst.so.6
+    * libc.so.6
+    * libxcb-xkb.so.1
+    * libdl.so.2
+    * libXau.so.6
+    * libXdmcp.so.6
+    * libXext.so.6
+    * libSM.so.6
+    * libICE.so.6
+    * libbsd.so.0
+    * libuuid.so.1
+    * librt.so.1
+    * libpthread.so.0
